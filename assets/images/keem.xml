@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="keem.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KeemstarIdle0000" x="0" y="0" width="509" height="587" frameX="0" frameY="-33" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0001" x="509" y="0" width="503" height="591" frameX="-4" frameY="-29" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0002" x="1012" y="0" width="497" height="595" frameX="-8" frameY="-25" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0003" x="1509" y="0" width="492" height="598" frameX="-12" frameY="-22" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0004" x="2001" y="0" width="486" height="602" frameX="-16" frameY="-18" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0005" x="2487" y="0" width="481" height="606" frameX="-20" frameY="-14" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0006" x="2968" y="0" width="475" height="610" frameX="-24" frameY="-10" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0007" x="3443" y="0" width="469" height="614" frameX="-28" frameY="-6" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0008" x="0" y="614" width="464" height="617" frameX="-32" frameY="-3" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarIdle0009" x="464" y="614" width="457" height="620" frameX="-37" frameY="0" frameWidth="509" frameHeight="620"/>
+	<SubTexture name="KeemstarSCREAM0000" x="921" y="614" width="284" height="766"/>
+	<SubTexture name="KeemstarSCREAM0001" x="921" y="614" width="284" height="766"/>
+	<SubTexture name="KeemstarSCREAM0002" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0003" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0004" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0005" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0006" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0007" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0008" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="KeemstarSCREAM0009" x="1205" y="614" width="284" height="717" frameX="0" frameY="-48" frameWidth="284" frameHeight="766"/>
+	<SubTexture name="Keemstardown0000" x="1489" y="614" width="284" height="409" frameX="0" frameY="-86" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0001" x="1489" y="614" width="284" height="409" frameX="0" frameY="-86" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0002" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0003" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0004" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0005" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0006" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0007" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0008" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstardown0009" x="1773" y="614" width="196" height="494" frameX="-44" frameY="0" frameWidth="284" frameHeight="495"/>
+	<SubTexture name="Keemstarleft0000" x="1969" y="614" width="401" height="606" frameX="-35" frameY="0" frameWidth="439" frameHeight="606"/>
+	<SubTexture name="Keemstarleft0001" x="1969" y="614" width="401" height="606" frameX="-35" frameY="0" frameWidth="439" frameHeight="606"/>
+	<SubTexture name="Keemstarleft0002" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0003" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0004" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0005" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0006" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0007" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0008" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarleft0009" x="2370" y="614" width="439" height="606"/>
+	<SubTexture name="Keemstarright0000" x="2809" y="614" width="527" height="596"/>
+	<SubTexture name="Keemstarright0001" x="2809" y="614" width="527" height="596"/>
+	<SubTexture name="Keemstarright0002" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0003" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0004" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0005" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0006" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0007" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0008" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarright0009" x="3336" y="614" width="482" height="596" frameX="-18" frameY="0" frameWidth="527" frameHeight="596"/>
+	<SubTexture name="Keemstarup0000" x="0" y="1380" width="436" height="634" frameX="-2" frameY="-2" frameWidth="448" frameHeight="636"/>
+	<SubTexture name="Keemstarup0001" x="0" y="1380" width="436" height="634" frameX="-2" frameY="-2" frameWidth="448" frameHeight="636"/>
+	<SubTexture name="Keemstarup0002" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0003" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0004" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0005" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0006" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0007" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0008" x="436" y="1380" width="448" height="636"/>
+	<SubTexture name="Keemstarup0009" x="436" y="1380" width="448" height="636"/>
+</TextureAtlas>
